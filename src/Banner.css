@@ -1,0 +1,47 @@
+.banner{
+background: url('https://www.luxurylinefurniture.com/settat-hotel-room-furniture-162347-27-B.jpg') center center;
+height: 60vh;
+position:relative;
+}
+.banner__info{
+    width:300px;
+    color: white;
+    background-color: black;
+    padding-top: 128px;
+    padding-left: 25px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+}
+.banner__info>Button{
+    color: white;
+    background-color:#f75c5f;
+    text-transform: inherit;
+    font-weight: 600;
+    margin-top: 23px;
+}
+.banner__info>h5{
+    margin-top: 10px;
+}
+.banner__info>button:hover{
+    color: #f75c5f;
+    background-color: white;
+}
+.banner__search>Button{
+    color: #f75c5f;
+    background-color:white;
+    text-transform: inherit;
+    font-weight: 600;
+    
+}
+.banner__search{
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__search>Button:hover{
+    color: #f75c5f;
+    background-color:white;
+    text-transform: inherit;
+    font-weight: 600;
+    
+}
